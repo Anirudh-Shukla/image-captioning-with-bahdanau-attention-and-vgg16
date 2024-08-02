@@ -24,23 +24,23 @@
 To run this project locally, follow these steps:
 
 - Clone the repository:
-sh
-Copy code
+```sh
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
+ ```
 
 - Create a virtual environment:
-sh
-Copy code
+```sh
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+ ```
 
 - Install the required packages:
-sh
-Copy code
+```sh
 pip install -r requirements.txt
+ ```
 
 - Run the Streamlit application:
-sh
-Copy code
+```sh
 streamlit run app.py
+ ```
