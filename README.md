@@ -45,8 +45,8 @@ pip install -r requirements.txt
 streamlit run app.py
  ```
 ## Some Related Links
-- Check out the Kaggle: [Image Captioning with Bahdanau Attention and VGG16](https://www.kaggle.com/code/anirudhshukla1011/image-captioning-with-bahdanau-attention-and-vgg16/)
-- Check out the deployed application: [Image Captioning with Bahdanau Attention and VGG16](https://automated-image-captioning.streamlit.app/)
+- Check out the Kaggle: [Image Captioning with Bahdanau Attention and VGG16 Kaggle](https://www.kaggle.com/code/anirudhshukla1011/image-captioning-with-bahdanau-attention-and-vgg16/)
+- Check out the deployed application: [Visionary Narratives](https://automated-image-captioning.streamlit.app/)
 
 ## Contributors:
 <a href="https://github.com/Anirudh-Shukla">ANIRUDH SHUKLA</a><br>
