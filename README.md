@@ -60,4 +60,9 @@ streamlit run app.py
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## Result
+![image](https://github.com/user-attachments/assets/b13de4c0-717d-4971-83c9-7f637f99f2fc)
+![image](https://github.com/user-attachments/assets/0a506392-4164-479e-89d1-3f9dbdb4cb01)
 
+## Acknowledgements
+- Various research papers and online tutorials on image captioning and attention mechanisms inspire this project. 
+- Special thanks to the authors and the open-source community.
