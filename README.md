@@ -49,9 +49,10 @@ streamlit run app.py
 - Check out the deployed application: [Image Captioning with Bahdanau Attention and VGG16](https://automated-image-captioning.streamlit.app/)
 
 ## Contributors:
-- [ANIRUDH SHUKLA](https://github.com/Anirudh-Shukla)
 
-- [GAURAV KUMAR CHAURASIYA](https://github.com/gauravkumarchaurasiya)
-(https://avatars.githubusercontent.com/u/99001707?v=4)
-- [SHIVAN ANAND](https://github.com/SHIVANANAND)
-(https://avatars.githubusercontent.com/u/137916628?v=4)
+<img src="https://avatars.githubusercontent.com/u/136250552?v=4" width="50" height="50" alt="description">
+<a href="https://github.com/Anirudh-Shukla">ANIRUDH SHUKLA</a>
+<img src="https://avatars.githubusercontent.com/u/99001707?v=4" width="50" height="50" alt="description">
+<a href="https://github.com/gauravkumarchaurasiya">GAURAV KUMAR CHAURASIYA</a>
+<img src="https://avatars.githubusercontent.com/u/137916628?v=4" width="50" height="50" alt="description">
+<a href="https://github.com/SHIVANANAND">SHIVAN ANAND</a>
