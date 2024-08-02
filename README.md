@@ -52,6 +52,6 @@ streamlit run app.py
 - [ANIRUDH SHUKLA](https://github.com/Anirudh-Shukla)
 
 - [GAURAV KUMAR CHAURASIYA](https://github.com/gauravkumarchaurasiya)
-https://avatars.githubusercontent.com/u/99001707?v=4
+(https://avatars.githubusercontent.com/u/99001707?v=4)
 - [SHIVAN ANAND](https://github.com/SHIVANANAND)
-https://avatars.githubusercontent.com/u/137916628?v=4
+(https://avatars.githubusercontent.com/u/137916628?v=4)
