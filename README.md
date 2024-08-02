@@ -51,9 +51,9 @@ streamlit run app.py
 ## Contributors:
 
 <a href="https://github.com/Anirudh-Shukla">ANIRUDH SHUKLA</a>
-<img src="https://avatars.githubusercontent.com/u/136250552?v=4" width="50" height="50" alt="description">
+<img src="https://avatars.githubusercontent.com/u/136250552?v=4" width="50" height="50" alt="description"><br>
 <a href="https://github.com/gauravkumarchaurasiya">GAURAV KUMAR CHAURASIYA</a>
-<img src="https://avatars.githubusercontent.com/u/99001707?v=4" width="50" height="50" alt="description">
+<img src="https://avatars.githubusercontent.com/u/99001707?v=4" width="50" height="50" alt="description"><br>
 <a href="https://github.com/SHIVANANAND">SHIVAN ANAND</a>
-<img src="https://avatars.githubusercontent.com/u/137916628?v=4" width="50" height="50" alt="description">
+<img src="https://avatars.githubusercontent.com/u/137916628?v=4" width="50" height="50" alt="description"><br>
 
