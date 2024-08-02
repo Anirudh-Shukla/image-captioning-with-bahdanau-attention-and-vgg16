@@ -46,4 +46,12 @@ streamlit run app.py
  ```
 ## Some Related Links
 - Check out the Kaggle: [Image Captioning with Bahdanau Attention and VGG16](https://www.kaggle.com/code/anirudhshukla1011/image-captioning-with-bahdanau-attention-and-vgg16/)
-- Check out the deployed application: [Automated Image Captioning](https://automated-image-captioning.streamlit.app/)
+- Check out the deployed application: [Image Captioning with Bahdanau Attention and VGG16](https://automated-image-captioning.streamlit.app/)
+
+## Contributors:
+- [ANIRUDH SHUKLA](https://github.com/Anirudh-Shukla)
+
+- [GAURAV KUMAR CHAURASIYA](https://github.com/gauravkumarchaurasiya)
+https://avatars.githubusercontent.com/u/99001707?v=4
+- [SHIVAN ANAND](https://github.com/SHIVANANAND)
+https://avatars.githubusercontent.com/u/137916628?v=4
