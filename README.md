@@ -20,6 +20,9 @@
 - PIL
 - Pickle
 
+## Model
+![image](https://github.com/user-attachments/assets/86e1a363-e0fe-416f-8de4-dadcceda7eef)
+
 ## Installation
 To run this project locally, follow these steps:
 
